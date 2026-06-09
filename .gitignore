@@ -1,0 +1,20 @@
+node_modules/
+.env
+.env.local
+.env.*.local
+coverage/
+coverage.json
+typechain-types/
+
+# Hardhat files
+cache/
+artifacts/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# OS
+.DS_Store
+Thumbs.db
